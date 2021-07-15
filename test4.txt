@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 4th file-modified4
+=======
+4th file - Modified4
+>>>>>>> ReleaseVer1.3
