@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 2nd file -modified1
 =======
 2nd file -modified2
 >>>>>>> ReleaseVer1.1
+=======
+2nd file -modified3
+>>>>>>> ReleaseVer1.2

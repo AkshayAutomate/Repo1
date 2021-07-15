@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 3rd file-modifies3
+=======
+3rd file-modified-3
+>>>>>>> ReleaseVer1.2
