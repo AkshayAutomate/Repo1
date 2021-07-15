@@ -1,0 +1,12 @@
+ Volume in drive C is OSDISK
+ Volume Serial Number is 3C5E-5053
+
+ Directory of C:\MyProject
+
+07/15/2021  01:04 PM    <DIR>          .
+07/15/2021  01:04 PM    <DIR>          ..
+07/15/2021  01:03 PM                23 test1.txt
+07/15/2021  01:03 PM                 8 test2.txt
+07/15/2021  01:04 PM                 0 test6.txt
+               3 File(s)             31 bytes
+               2 Dir(s)  178,165,641,216 bytes free
